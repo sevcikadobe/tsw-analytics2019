@@ -59,8 +59,9 @@ See Analytics section here: https://solutionpartners.adobe.com/home/hp/connect/e
 
 ### Instructions
 
-* 3-Person Team ~ 16 Minutes (Opening, Demo, Closing)
-* 4-Person Team ~ 16 Minutes (Opening, Demo, Demo, Closing)
+* 2-Person Team ~ 15 Minutes (Opening, Demo, Closing)
+* 3-Person Team ~ 15 Minutes (Opening, Demo, Closing)
+* 4-Person Team ~ 15 Minutes (Opening, Demo, Demo, Closing)
 * 5-Person Team ~ 20 Minutes (Opening, Demo, Demo, Demo, Closing)
 
 ### Tips
