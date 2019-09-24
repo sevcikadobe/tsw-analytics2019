@@ -4,7 +4,7 @@
 
 | City   | Date   | Registration  | Notes  |
 |---|---|---|---|
-| Prague, CZ | 24th Sept | https://tswanalyticsprague24092019.solutionpartners.adobeevents.com/ |   |
+| Prague, CZ | 24th Sept | https://tswanalyticsprague24092019.solutionpartners.adobeevents.com/ |  Post Event Feedback Form: https://adobe.allegiancetech.com/surveys/29MJJ9/ |
 | London, UK | 09th Oct | https://tswaalondon09102019.solutionpartners.adobeevents.com/   |   |
 | Madrid, ES | 22nd Oct | https://tswaa22102019.solutionpartners.adobeevents.com/   |   |
 
