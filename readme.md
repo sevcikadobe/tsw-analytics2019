@@ -52,7 +52,7 @@ See Analytics section here: https://solutionpartners.adobe.com/home/hp/connect/e
 ### Materials
 
 * TSW Preworkshop Workbook: [00-TSW-preWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Abe6b0b95-bb16-43ee-974c-c434ad1e6f35)
-* TSW SC Presentation: [02-TSW-SC-Presentation_AdobeTourism-2.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af7f70031-c8d9-4aa7-8d8c-e0e62c07cde2)
+* TSW SC Presentation: [02-TSW-SC-Presentation_AdobeTourism-2.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A7934e5dd-9553-48e0-9783-544330e295cd)
 * TSW Scenarios: [03a-TSW-HandsOn.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2551c963-2f53-4471-98c8-839391b79c97)
 * TSW Hands-On Workbook: [03b-TSW-HandsOnWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A59a80297-2daa-4292-8817-d492611f7c50)
 * TSW Reference Guide: [03c-TSW-ReferenceGuide.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa911d0ea-2fc9-4c4f-b6a2-cacb2c3ec592)
