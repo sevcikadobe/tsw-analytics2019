@@ -45,8 +45,8 @@ See Analytics section here: https://solutionpartners.adobe.com/home/hp/connect/e
 
 ### Team Assignments
 
-* Team Assignment [Prague](https://adobe-my.sharepoint.com/personal/sevcik_adobe_com/_layouts/15/guestaccess.aspx?guestaccesstoken=zw3LrE5dXlPVFscMlJb3kw5yrnkKXPtTdRXmzQaEU2U%3D&docid=2_1eaa235f3b4604e7b9a22ed682f4f36e7&rev=1&e=fABcDR)
-* Team Assignment [London](https://adobe-my.sharepoint.com/personal/sevcik_adobe_com/_layouts/15/guestaccess.aspx?guestaccesstoken=%2FHIIqhoXud3iAvPro1%2BG79unf%2FtKBGzdL%2Fuw2%2B1KV6E%3D&docid=2_150ba31b660a144cfbb0089597d3fde22&rev=1&e=WojOju)
+* Team Assignment [Prague]
+* Team Assignment [London]
 * Team Assignment [Madrid](https://adobe-my.sharepoint.com/personal/sevcik_adobe_com/_layouts/15/guestaccess.aspx?guestaccesstoken=kkY8UPuFlyxo9JRfPrupcY3povGIcM66FA80xtB9BFU%3D&docid=2_1ab88e6fc043343c0b36ac0b670558bf3&rev=1&e=cyOyfJ)
 
 ### Materials
