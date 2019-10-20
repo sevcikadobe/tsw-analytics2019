@@ -51,11 +51,12 @@ See Analytics section here: https://solutionpartners.adobe.com/home/hp/connect/e
 
 ### Materials
 
-* TSW Preworkshop Workbook: [00-TSW-preWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Abe6b0b95-bb16-43ee-974c-c434ad1e6f35)
-* TSW SC Presentation: [02-TSW-SC-Presentation_AdobeTourism-2.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A7934e5dd-9553-48e0-9783-544330e295cd)
-* TSW Scenarios: [03a-TSW-HandsOn.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2551c963-2f53-4471-98c8-839391b79c97)
-* TSW Hands-On Workbook: [03b-TSW-HandsOnWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A59a80297-2daa-4292-8817-d492611f7c50)
-* TSW Reference Guide: [03c-TSW-ReferenceGuide.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa911d0ea-2fc9-4c4f-b6a2-cacb2c3ec592)
+* TSW Preworkshop Workbook: [00-TSW-preWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A1f247917-389c-4285-afc4-0c561f971285)
+* TSW SC Presentation: [02-TSW-SC-Presentation_AdobeTourism-2.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9fe4b29b-e0ad-4bf6-aaae-3b7cb5d54cb2)
+* TSW Scenarios: [03a-TSW-HandsOn.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A0b88913b-a509-46cb-b6b1-d84f04c79c4a)
+* TSW Hands-On Workbook: [03b-TSW-HandsOnWorkbook.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5bd1638a-18aa-4643-888d-7e0c0acb3f81)
+* TSW Reference Guide: [03c-TSW-ReferenceGuide.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A4d5b9c90-7d2b-4261-b009-a6073f0e03bf)
+* TSW Xray Demo: [04-TSW-XrayGuide.pdf](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Acfa2c22b-88c8-42d9-8ce2-ab84671e317f)
 
 ### Instructions
 
